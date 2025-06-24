@@ -58,4 +58,6 @@ Explore these magical spaces:
 
 
 
-Update:  23.06.2025 08:25 url is now operational and clickable
+
+
+Update:  24.06.2025 The broken link has been fixed, it's now operational.
