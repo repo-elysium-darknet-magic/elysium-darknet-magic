@@ -60,4 +60,6 @@ Explore these magical spaces:
 
 
 
-Update:  24.06.2025 The broken link has been fixed, it's now operational.
+
+
+Update: Session links
